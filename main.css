@@ -209,7 +209,7 @@ input {
 
 @media(max-height:668px){
 	.container{
-		min-height: 400px;
+		min-height: 350px;
 	}
 	form, button{
 		scale: .75;

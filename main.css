@@ -213,7 +213,7 @@ input {
 
 @media(max-height:668px){
 	.container{
-		min-height: 400px;
+		min-height: 350px;
 	}
 	form{
 		scale: .75;
@@ -237,3 +237,4 @@ input {
         transform: scale(1);
     }
 }
+

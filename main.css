@@ -211,7 +211,7 @@ input {
 	}
 }
 
-@media(max-height:668px){
+@media(max-height:700px){
 	.container{
 		min-height: 350px;
 	}
